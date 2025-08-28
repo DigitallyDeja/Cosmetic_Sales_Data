@@ -33,5 +33,3 @@ The goal of this project is to analyze a mock cosmetics sales dataset to uncover
 
 ## Conclusion
 Overall, this project gave further insight into how the company’s sales are spread out between products and salespeople. According to the data, a few salespeople are bringing in most of the money. This shows the company should potentally focus on training others or brainstorm strategies on how to increase the overall profits. Products like Body Butter Cream and Vitamin C Cream are highlighted in the analysis, one because it’s consistently profitable, and the other because it seems to peak in August. These kinds of insights could help the company with sales strategies, seasonal planning, and even pricing decisions.
-  
-## Insights 
