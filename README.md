@@ -1,12 +1,12 @@
 # Cosmetic_Sales_Data
 ## Project Objectives
-The goal of this project is to analyze a mock cosmetics sales dataset to uncover trends in revenue, product pricing, and salesperson performance. Using SQL, I created queries to answer key business questions, such as identifying top performers, calculating average unit prices, and measuring product revenue across time periods. The dataset was cleaned and structured into a new table **clean_cosmetics_data** to ensure accuracy, and a reference table **product_details** was introduced to enable joins and more advanced analysis. This project shows skills in data cleaning, SQL aggregation, subqueries, common table expressions **CTEs**, and joins. 
-
-<a href="https://github.com/DigitallyDeja/Cosmetic_Sales_Datapt2">Costmetic Dataset Tableau Dashboard (different KPI data)</a>
+The goal of this project is to analyze a mock cosmetics sales dataset to uncover trends in revenue, product pricing, and salesperson performance. Using SQL, I created queries to answer key business questions, such as identifying top performers, calculating average unit prices, and measuring product revenue across time periods. The dataset was cleaned and structured into a new table **clean_cosmetics_data** to ensure accuracy, and a reference table **product_details** was introduced to enable joins and more advanced analysis. This project shows skills in data cleaning, SQL aggregation, subqueries, common table expressions **CTEs**, and joins. There is a part two to the project to address different KPIs & business needs in Tableau <a href="https://github.com/DigitallyDeja/Cosmetic_Sales_Datapt2">Costmetic Dataset Tableau Dashboard (different KPI data)</a>.
 
 ## Dataset Used
 <a target="_blank" href="https://www.kaggle.com/datasets/atharvasoundankar/cosmetics-and-skincare-product-sales-data-2022">Cosmetic Sales Dataset</a>
 
+## Tools Used 
+SQL: This is used to clean and transform data so that it's suitable for analysis in the dataset.
 ## Key Questions (KPIs)
 - Question 1: Who are the **top 5 salespeople** with the **highest revenue**?
 - Question 2: On **average**, which product performed the best?
